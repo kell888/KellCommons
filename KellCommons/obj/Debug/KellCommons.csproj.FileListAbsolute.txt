@@ -1,0 +1,9 @@
+D:\2011\KellCommons\KellCommons\bin\Debug\KellCommons.dll
+D:\2011\KellCommons\KellCommons\bin\Debug\KellCommons.pdb
+D:\2011\KellCommons\KellCommons\obj\Debug\ResolveAssemblyReference.cache
+D:\2011\KellCommons\KellCommons\obj\Debug\KellCommons.dll
+D:\2011\KellCommons\KellCommons\obj\Debug\KellCommons.pdb
+D:\2011\KellCommons\KellCommons\bin\Debug\KellNode.dll
+D:\2011\KellCommons\KellCommons\bin\Debug\Resources.dll
+D:\2011\KellCommons\KellCommons\bin\Debug\KellNode.pdb
+D:\2011\KellCommons\KellCommons\bin\Debug\Resources.pdb

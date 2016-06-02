@@ -1,0 +1,6 @@
+E:\工作目录\CodePlex\DotNet.Framework.Common\DotNet.Framework.Common\bin\Release\DotNet.Framework.Common.XML
+E:\工作目录\CodePlex\DotNet.Framework.Common\DotNet.Framework.Common\bin\Release\DotNet.Framework.Common.dll
+E:\工作目录\CodePlex\DotNet.Framework.Common\DotNet.Framework.Common\bin\Release\DotNet.Framework.Common.pdb
+E:\工作目录\CodePlex\DotNet.Framework.Common\DotNet.Framework.Common\obj\Release\ResolveAssemblyReference.cache
+E:\工作目录\CodePlex\DotNet.Framework.Common\DotNet.Framework.Common\obj\Release\DotNet.Framework.Common.dll
+E:\工作目录\CodePlex\DotNet.Framework.Common\DotNet.Framework.Common\obj\Release\DotNet.Framework.Common.pdb
